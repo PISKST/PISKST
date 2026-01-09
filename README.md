@@ -26,14 +26,6 @@
 
 ---
 
-# 📈 GitHub статистика
-
-![PISKST GitHub stats](https://github-readme-stats.vercel.app/api?username=PISKST&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PISKST&layout=compact&theme=dark)
-
-
----
-
 ## 📫 Контакты
 
 - INFO: [LooP1x](https://solo.to/loop1x) 
