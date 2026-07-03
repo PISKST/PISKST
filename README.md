@@ -1,38 +1,33 @@
-# Привет, я LooP1X 👋
+[🇬🇧 English](README.en.md) | [🇷🇺 Русский](README.md)
 
-![header](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+# Привет.
 
-Я увлечён **программированием, технологиями и гейм-девом**.  
-Люблю создавать крутые проекты, автоматизировать процессы и экспериментировать с новыми технологиями.  
+![header](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWljZmNjaTRkMjNhaXQzdzAzb2RlMnZ5NDF3c3JzYnFudGlzcnQybCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/F5zwOd4Rg1XPHplH0p/giphy.gif)
 
 ---
 
-## 💻 Навыки и технологии
+## Навыки и технологии
 
 **Языки:**
 <p>
-  <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb29ma29lMGczM3plMzRtMHkxMXo5b3p3NW9lN2Jranhmbnl0YzY4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Zc0zSSoAukbte/giphy.gif" alt="RUSSIA" />
+  <img src="https://i.postimg.cc/8c5BCSxw/images.png" alt="C#" />
+  <img src="https://i.postimg.cc/Sx7XHPvS/b36298ae47aa37b4b0c89fc4b6f24260.png" alt="Python" /><br>
+  p.s. я знаю только print в python
 </p>
 
 **Инструменты и окружение:**
-<p>
-  <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-%23007ACC?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
-</p>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRoNHN2YmN4M2s1enpjN2prazZoNGl1cnduZXdhNmJ3NmVyanRydyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ywAIIcc0jAh6vQgsPz/giphy.gif" alt="Peppa" />
 
 ---
 
-## 📫 Контакты
+## Больше обо мне:
 
-- INFO: [LooP1x](https://solo.to/loop1x) 
+- solo.to: [LooP1x](https://solo.to/loop1x) 
 
 ---
 
-## 💬 Любимая цитата
+## Любимая цитата
 
-> "Code is like humor. When you have to explain it, it’s bad." — Cory House
+> "На алт+f4 можно стрелять" — Инкогнито.
